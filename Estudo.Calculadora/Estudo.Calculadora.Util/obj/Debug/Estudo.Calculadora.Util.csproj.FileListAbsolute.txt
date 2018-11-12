@@ -1,0 +1,5 @@
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.Util\bin\Debug\Estudo.Calculadora.Util.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.Util\bin\Debug\Estudo.Calculadora.Util.pdb
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.Util\obj\Debug\Estudo.Calculadora.Util.csproj.CoreCompileInputs.cache
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.Util\obj\Debug\Estudo.Calculadora.Util.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.Util\obj\Debug\Estudo.Calculadora.Util.pdb

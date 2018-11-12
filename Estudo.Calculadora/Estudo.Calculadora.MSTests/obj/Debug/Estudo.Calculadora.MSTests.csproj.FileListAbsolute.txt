@@ -1,0 +1,16 @@
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Estudo.Calculadora.MSTests.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Estudo.Calculadora.MSTests.pdb
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Estudo.Calculadora.Util.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Estudo.Calculadora.Util.pdb
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\obj\Debug\Estudo.Calculadora.MSTests.csprojAssemblyReference.cache
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\obj\Debug\Estudo.Calculadora.MSTests.csproj.CoreCompileInputs.cache
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\obj\Debug\Estudo.Calculadora.MSTests.csproj.CopyComplete
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\obj\Debug\Estudo.Calculadora.MSTests.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.Calculadora\Estudo.Calculadora.MSTests\obj\Debug\Estudo.Calculadora.MSTests.pdb
